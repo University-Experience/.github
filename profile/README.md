@@ -6,7 +6,7 @@
   ![pip version](https://img.shields.io/pypi/v/pip)
   [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/University-Experience/Bazarcom/releases/tag/v1.0.0)
   [![Contributors](https://img.shields.io/github/contributors/University-Experience/Bazarcom)](https://github.com/University-Experience/Bazarcom/graphs/contributors)
-  [![license](https://img.shields.io/github/license/University-Experience/Bazarcom)](https://github.com/University-Experience/Bazarcom/blob/main/LICENSE)
+  [![license](https://img.shields.io/github/license/FreeDevelopersCamp/learning-platform-api)](https://img.shields.io/github/license/FreeDevelopersCamp/learning-platform-api)
   ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/University-Experience/Bazarcom)
 
 
@@ -126,4 +126,4 @@ Currently working on my software graduation project `FreeDevelopersCamp`, its a 
 We welcome contributions! Feel free to fork the repository, implement your ideas, and submit a pull request.
 
 ## License
-This project is licensed under the Apache License 2.0.
+This project is licensed under the [Apache License 2.0](LICENSE).
