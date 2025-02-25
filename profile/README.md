@@ -121,7 +121,7 @@ My hardware graduation project was `Tile Grout filling robot`
 ## Software Graduation Project (GP1):
 **FreeDevelopersCamp**, This project aims to create a learning platform for developers with resources, courses, and a community-driven environment to help learners grow in their careers.
 
-## Features
+### Features
 - Backend built with **NestJS** and **MongoDB**.
 - Frontend powered by **React**, **Styled-Components**, and **Tailwind CSS**.
 - Mobile version using **React Native**.
