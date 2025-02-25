@@ -126,7 +126,8 @@ My hardware graduation project was `Tile Grout filling robot`
 - Frontend powered by **React**, **Styled-Components**, and **Tailwind CSS**.
 - Mobile version using **React Native**.
 - Plans to integrate **AI** and **ML** features soon.
-- Visit [GitHub Oragnization](https://github.com/FreeDevelopersCamp) for more details.
+- [GitHub Oragnization](https://github.com/FreeDevelopersCamp)
+- [LinkedIn Post](https://www.linkedin.com/posts/bara-alsedih_freedeveloperscamp-activity-7293120500443017218-y6n1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEelapkBoIDq5_60n2J0LNtHPl9ugf17cfs)
 
 ## Contributing
 We welcome contributions! Feel free to fork the repository, implement your ideas, and submit a pull request.
