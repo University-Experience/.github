@@ -110,6 +110,7 @@ Welcome to the **University Experience** organization! This initiative shows mos
   <br><br>
 - Communications: Used `Java` language, and `LabView, VSCode` tools.
 - Networks 1: Used `Java, JavaFX` skills, and `VSCode` tool.
+- Networks 2: Used `Java, PHP` skills, and `VSCode, Apache` tools.
 
 ## Hardware Graduation Project (GP2):
 My hardware graduation project was `Tile Grout filling robot`
