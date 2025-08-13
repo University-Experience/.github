@@ -66,7 +66,7 @@
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)
   ![Tera Term](https://img.shields.io/badge/Tera%20Term-005F9E?logo=terminal&logoColor=white)
   ![com0com](https://img.shields.io/badge/com0com-808080?logo=terminal&logoColor=white)
-  ![bracketTracer](https://img.shields.io/badge/bracketTracer-4CAF50?logo=brackets&logoColor=white)
+  ![backetTracer](https://img.shields.io/badge/bracketTracer-4CAF50?logo=brackets&logoColor=white)
   ![MPLAB X](https://img.shields.io/badge/MPLAB%20X-2D2D2D?logo=microchip&logoColor=white)
   ![PIC18](https://img.shields.io/badge/PIC18-FFA500?logo=microchip&logoColor=white)
   ![Multisim](https://img.shields.io/badge/Multisim-0058A6?logo=multisim&logoColor=white)
